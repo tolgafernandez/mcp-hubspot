@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A Model Context Protocol (MCP) server that enables AI assistants to interact with HubSpot CRM data, providing built-in vector storage and caching mechanisms help overcome HubSpot API limitations while improving response times."
 requires-python = ">=3.10"
 # clarify the control flow
+# clarify the control flow
